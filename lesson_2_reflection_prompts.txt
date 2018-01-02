@@ -21,3 +21,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+ Git cannot decide which modifications has to be left in the merged head(commit). It must
+ be manually clarified.
+ pros: there will be no bugs in the merged code
+ cons: the code before merger must be revised and altered manually
