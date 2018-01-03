@@ -36,4 +36,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	If I want to try a beta version. It may consist many commits and this 
+	version might behave absolutely different then the master's version. Later
+	it could be merged.
+	Separate branches might be also helpful if developers wants to solve the
+	master's problem in different ways.
+	On the other hand different branches requres more attention during merging.
