@@ -28,7 +28,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+	In a very hard way... :) Using Git and GitHub I can follow all modifications, 
+	mod changes and the flow of the project. Without VCS the development process
+	would be much harder because everybody must get informed at every logical change
+	by another way (meeting, phone, e-mail etc). 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
